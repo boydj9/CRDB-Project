@@ -1,1 +1,14 @@
 
+#Design and Implement a database system for Civic Story to enhance their current design and allow for future growth and ease of analysis. 
+#Provide ease of analysis and an efficient database to allow growth and easy/quick searches with efficient algorithms for searching and storing. 
+#Database System that will store additional information about user traffic to provide Civic Stroy the necessary information to see the easiest segment to growth, and where users are going on the website. Create/Design a forum/user discussion section to allow greater sharing of information between users. 
+#Current website has a lack of user interaction, and a rudimentary search system to provide users with what they want to see. The Forum will provide users with additional interaction and time on the website, and this can then be analysed by the analysis algorithms to see what users are doing, and where the current focus of CivicStory should be to gain more users. 
+#Collect data from other websites and forum sites to see how users interact and how popular the sites are. Use these lessons to design and implement a forum. View what companies use in analysis for growth and use this knowledge to design analysis algorithms. 
+#Reddit is a common forum system, and there are endless news websites such as the WSJ, Washington Post, NYT, etc… System will follow Reddit's design for a forum, and use the common tag system and subscription/profile systems from other news websites. 
+#System will be modular, so it can easily be added to or modified if the user wants to analyze additional information.  
+#Hash functions will shorten the size of articles, and they will be decoded when quired to allow faster searches within the database. Code will be easily readable and organized, and database structure will be straight-forward and easy-to-use. 
+#Basic user password system, any time a user enters a password to log in, it will be cross-referenced with stored user information. User’s won’t be able to see history of other profiles, further analysis needed to determine how much access users have to each other's info. 
+#Once a day backup which will be stored in a different location of the db incase of catastrophic failure. Past 30 days of back-ups will be saved, at the addition of a new back-up, the oldest back-up will be deleted. Amount of back-ups can be changed based on the size/growth of the site. 
+#Team will need to learn Postgresql, and server hosting. All team members will individually research and practice using Postgresql, and one team member will focus on learning hosting a server to hold the desired information.  
+#Diagram in the Quad Chart
+#QuadChart in folder
